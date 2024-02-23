@@ -1,2 +1,2 @@
 # ICODER
-Developer Blog 
+A Dev Blog
